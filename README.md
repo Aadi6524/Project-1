@@ -1,2 +1,2 @@
 # Project-1
-This is my Feist Project
+This is my Frist Project
